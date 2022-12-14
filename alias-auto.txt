@@ -1,0 +1,2 @@
+alias restart='supervisorctl restart auto_srv'
+alias stop='supervisorctl stop auto_srv'
