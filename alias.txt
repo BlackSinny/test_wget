@@ -1,0 +1,2 @@
+alias restart='supervisorctl restart monitor_srv'
+alias stop='supervisorctl stop monitor_srv'
